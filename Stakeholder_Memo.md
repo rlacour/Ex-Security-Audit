@@ -27,7 +27,7 @@ Currently there is inadequate management of assets and threats to business conti
 |:------|
 |Control of Least Privilege and Separation of Duties|
 |Disaster recovery plans|
-|Password, access control, and account management policies, including the implementation of a password management system|
+|Password, access control, and account management policies, </br> including the implementation of a password management system|
 |Encryption (for secure website transactions)|
 |Intrusion Detection System (IDS)|
 |Backups|
