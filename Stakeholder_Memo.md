@@ -2,9 +2,9 @@
 
 TO: IT Manager, Stakeholders
 
-FROM: (Romy LaCour)
+FROM: Romy LaCour
 
-DATE: (06/08/2023)
+DATE: 06/08/2023
 
 SUBJECT: Internal IT Audit Findings and Recommendations
 
